@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "About Me"
+date:   2017-09-01 09:01:42 -0400
+categories: About Me
+---
+<h1> Professional Experience </h1>
+
+I am currently employed as a Software Engineer at Booz Allen Hamilton on the Digital team. Our main focus is to provide clients with modern web applications that are scalable, easily deployable, and maintainable by using modern best practices. Some of my favorites practices which I have seen the benefit of first hand are Test Driven Development, Agile, and Microservices. Having worked on both development and devops/automation roles I consider myself exposed to the full stack development methodology.
+
+Previous to Booz Allen I have two internship experiences. The first being Zodiac Aerospace where I learned to work on the IT team and support the company with their technical needs. After Zodiac I interned at Mentalix Inc where I worked on software development and testing.
