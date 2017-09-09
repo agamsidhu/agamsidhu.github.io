@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fixing key issues in Microsoft SQL Server after Database restore"
+title:  "Force dropping master keys due to dependency errors."
 date:   2017-09-04 09:04:42 -0400
 categories: Tech
 ---
