@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Force dropping master keys due to dependency errors."
+title:  "Force dropping master keys due to dependency errors"
 date:   2017-09-04 09:04:42 -0400
 categories: Tech
 ---
-<!--<h1> Background </h1>-->
 
-The purpose of this post it to provide a solution for the issues I faced after trying to restore a database from a different environment. The purpose of this was to move modern data onto our development environment to allow for more accurate testing.
+
+The purpose of this post is to provide a solution for the issues I faced after trying to restore a database from a different environment. The purpose of this was to move modern data onto our development environment to allow for more accurate testing.
 
 After restoring the database(DB) there were multiple issues with the master key, symmetrical key and certificates. The first error seen when trying to run a job was:
 
