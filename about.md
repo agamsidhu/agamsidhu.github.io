@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![My pic]({{localhost:4000}}/assets/pic.jpg)
+![My pic]({{localhost:4000}}/assets/pic.JPG)
 
 I am currently employed as a Software Engineer at Booz Allen Hamilton on the Digital team. Our main focus is to provide clients with modern web applications that are scalable, easily deployable, and maintainable.
 
