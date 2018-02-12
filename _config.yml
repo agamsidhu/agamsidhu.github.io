@@ -16,7 +16,7 @@
 title: Agam Sidhu
 email: agamsidhu259@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Creating a place to work on my technical and writing skills. Posts will be software related or other things I am interested in. Hopefully this will also look good one day.
+  Creating a place to work on my technical and writing skills. Hopefully this will also look good one day.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
